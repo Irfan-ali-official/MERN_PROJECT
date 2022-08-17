@@ -1,1 +1,7 @@
 All About MERN Technology, How to achieve JWT(Jason Web Tooken) Authentication.
+Steps to run this project.
+
+1)->clone this repo.
+2)->run npm i in both frontend and backend folder
+3)-> go to backend folder run npm start
+4)-> go to frontend folder run npm start 
